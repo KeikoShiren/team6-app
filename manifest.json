@@ -1,0 +1,10 @@
+
+{
+  "name": "TEAM6 AI Navigator",
+  "short_name": "TEAM6",
+  "display": "standalone",
+  "background_color": "#f6f2ea",
+  "theme_color": "#18324a",
+  "start_url": "./columbus-agent-iphone-ui.html",
+  "icons": []
+}
