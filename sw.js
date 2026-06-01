@@ -1,8 +1,8 @@
-const CACHE_NAME = 'team6-cache-v1';
+const CACHE_NAME = 'team6-cache-v2';
 
 const urlsToCache = [
   './',
-  './columbus-agent-iphone-ui.html',
+  './index.html',
   './app-optimized-fixed-utf8.js',
   './bg-optimized.jpg',
   './manifest.json',
